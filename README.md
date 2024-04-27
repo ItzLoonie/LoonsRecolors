@@ -3,51 +3,13 @@ Loons Recolors is an Icon Pack for the Town of Salem 2 Icon Packs mod.<br>
 Icons for nearly every role have been replaced, and also changes depending on your faction. (eg Town Traitors will have a different icon).
 
 
-## Role completion:
-### Apocalypse
+## See an icon missing? / Want to update an icon?
+Add it! I'm opening accepting new icons to add to the pack.
+> [!IMPORTANT]
+> If adding an icon for the original faction (eg Coven Leader in Coven), you must also add the icon to RegularBase in the Common folder.<br>
 
-### Auditor
+> [!NOTE]
+> Vigilante's icon in this pack uses Town of Salem 2's beta icon, as it fits Vigilante better.
 
-### Arsonist
-
-### Compliance
-
-### Coven
-
-### Cursed Soul
-
-### Doomsayer
-
-### Executioner
-
-### Frogs
-
-### Hawks
-
-### Inquisitor
-- None
-
-### Jester
-
-### Lions
-
-### Pandora's Box
-
-### Pirate
-
-### Regular
-
-### Serial Killer
-
-### Shroud
-
-### Starspawn
-- None
-
-### Town
-
-### Vampire
-
-### VIP
-
-### Werewolf
+> [!NOTE]
+> Pestilence and Famine have unique icons so they are not just horse icons.
