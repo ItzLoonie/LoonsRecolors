@@ -9,7 +9,7 @@ Add it! I'm opening accepting new icons to add to the pack.
 > If adding an icon for the original faction (eg Coven Leader in Coven), you must also add the icon to RegularBase in the Common folder.<br>
 
 > [!NOTE]
-> Vigilante's icon in this pack uses Town of Salem 2's beta icon, as it fits Vigilante better.
+> Vigilante's icon in this pack uses Town of Salem 2's beta Vigilante icon, as it fits Vigilante better.
 
 > [!NOTE]
 > Pestilence and Famine have unique icons so they are not just horse icons.
