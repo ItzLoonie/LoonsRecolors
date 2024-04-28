@@ -9,7 +9,7 @@ Icons for nearly every role have been replaced, and also changes depending on yo
 > If you cannot find the latest IconPacks.dll and/or Witchcraft.dll files, ask for help in the Discord!
 
 ## See an icon missing? / Want to update an icon?
-Add it! I'm opening accepting new icons to add to the pack.
+Add it! I'm openly accepting new icons to add to the pack.
 > [!IMPORTANT]
 > If adding an icon for the original faction (eg Coven Leader in Coven), you must also add the icon to RegularBase in the Common folder.<br>
 
