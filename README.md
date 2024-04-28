@@ -4,8 +4,8 @@ Icons for nearly every role have been replaced, and also changes depending on yo
 
 > [!WARNING]
 > To use this Icon Pack, you need Town of Salem 2, the Salem Mod Loader, the Icon Packs mod, and the Witchcraft library mod.<br>
-> All of these can be found on the [BetterTOS2 Discord server](https://discord.gg/bettertos2)!
-> Go to #suggestions and search for RiR Thread and you should find what you're looking for after a bit of searching.
+> All of these can be found on the [BetterTOS2 Discord server](https://discord.gg/bettertos2)!<br>
+> Go to #suggestions and search for RiR Thread and you should find what you're looking for after a bit of searching.<br>
 > If you cannot find the latest IconPacks.dll and/or Witchcraft.dll files, ask for help in the Discord!
 
 ## See an icon missing? / Want to update an icon?
