@@ -1,0 +1,646 @@
+{
+    "ModAssets":
+    [
+        {
+            "Name": "BTOS2",
+            "Folders":
+            [
+                {
+                    "Name": "AuditorBase",
+                    "Assets":
+                    [
+                        {"Name": "Auditor"},
+                        {"Name": "Auditor_Ability"},
+                        {"Name": "Auditor_Special"}
+                    ]
+                },
+                {
+                    "Name": "AuditorEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "ComplianceBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "ComplianceEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "EgotistBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Coroner"},
+                        {"Name": "Crusader"},
+                        {"Name": "Deputy"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jailor"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Monarch"},
+                        {"Name": "Oracle"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"}
+                    ]
+                },
+                {
+                    "Name": "EgotistEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "FrogsBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Executioner"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Inquisitor"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jackal"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jester"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Pirate"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "Spy"},
+                        {"Name": "Starspawn"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Vampire"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "FrogsEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "HawksBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Executioner"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Inquisitor"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jackal"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jester"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Pirate"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "Spy"},
+                        {"Name": "Starspawn"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Vampire"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "HawksEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "InquisitorBase",
+                    "Assets": 
+                    [
+                        {"Name": "Inquisitor"},
+                        {"Name": "Inqusitor_Ability"},
+                        {"Name": "Inquisitor_Special"}
+                    ]
+                },
+                {
+                    "Name": "InquisitorEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "JackalBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "JackalEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "JudgeBase",
+                    "Assets": 
+                    [
+                        {"Name": "Judge"},
+                        {"Name": "Judge_Ability"},
+                        {"Name": "Judge_Special"}
+                    ]
+                },
+                {
+                    "Name": "JudgeEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "LionsBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Executioner"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Inquisitor"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jackal"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jester"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Pirate"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "Spy"},
+                        {"Name": "Starspawn"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Vampire"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "LionsEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "PandoraBase",
+                    "Assets": 
+                    [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
+                        {"Name": "Arsonist"},
+                        {"Name": "Baker"},
+                        {"Name": "Banshee"},
+                        {"Name": "Berserker"},
+                        {"Name": "Bodyguard"},
+                        {"Name": "Cleric"},
+                        {"Name": "Conjurer"},
+                        {"Name": "Coroner"},
+                        {"Name": "CovenLeader"},
+                        {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "Death"},
+                        {"Name": "Deputy"},
+                        {"Name": "Dreamweaver"},
+                        {"Name": "Enchanter"},
+                        {"Name": "Famine"},
+                        {"Name": "HexMaster"},
+                        {"Name": "Illusionist"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jailor"},
+                        {"Name": "Jinx"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
+                        {"Name": "Mayor"},
+                        {"Name": "Medusa"},
+                        {"Name": "Monarch"},
+                        {"Name": "Necromancer"},
+                        {"Name": "Oracle"},
+                        {"Name": "Pestilence"},
+                        {"Name": "Plaguebearer"},
+                        {"Name": "Poisoner"},
+                        {"Name": "PotionMaster"},
+                        {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
+                        {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
+                        {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Shroud"},
+                        {"Name": "SoulCollector"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
+                        {"Name": "Trapper"},
+                        {"Name": "Trickster"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
+                        {"Name": "War"},
+                        {"Name": "Warlock"},
+                        {"Name": "Werewolf"},
+                        {"Name": "Wildling"},
+                        {"Name": "Witch"}
+                    ]
+                },
+                {
+                    "Name": "PandoraEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "StarspawnBase",
+                    "Assets": 
+                    [
+                        {"Name": "Starspawn_Ability"},
+                        {"Name": "Starspawn_Special"}
+                    ]
+                },
+                {
+                    "Name": "StarspawnEasterEggs",
+                    "Assets": []
+                }
+            ]
+        },
+        {
+            "Name": "Common",
+            "Folders":
+            [
+                {
+                    "Name": "ArsonistBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "ArsonistEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "ApocalypseBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "ApocalypseEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "CovenBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "CovenEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "Custom",
+                    "Assets": []
+                },
+                {
+                    "Name": "CursedSoulBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "CursedSoulEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "DoomsayerBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "DoomsayerEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "ExecutionerBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "ExecutionerEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "JesterBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "JesterEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "PirateBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "PirateEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "RegularBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "RegularEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "SerialKillerBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "SerialKillerEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "ShroudBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "ShroudEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "TownBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "TownEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "VampireBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "VampireEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "VIPBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "VIPEasterEggs",
+                    "Assets": []
+                },
+                {
+                    "Name": "WerewolfBase",
+                    "Assets": []
+                },
+                {
+                    "Name": "WerewolfEasterEggs",
+                    "Assets": []
+                }
+            ]
+        },
+        {
+            "Name": "PlayerNumbers",
+            "Assets": []
+        }
+    ]
+}
