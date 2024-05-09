@@ -1,4 +1,4 @@
-![LOGO](./Images/LoonsRecolors.png)
+![LOGO](./Images/PackImage.png)
 Loons Recolors is an Icon Pack for the Town of Salem 2 Icon Packs mod.<br>
 Icons for nearly every role have been replaced, and also changes depending on your faction. (eg Town Traitors will have a different icon).
 
