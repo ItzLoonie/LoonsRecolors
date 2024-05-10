@@ -703,6 +703,7 @@
                         {"Name": "Enchanter"},
                         {"Name": "Enchanter_Ability"},
                         {"Name": "Enchanter_Special"},
+                        {"Name": "Executioner"},
                         {"Name": "Famine"},
                         {"Name": "Famine_Ability"},
                         {"Name": "HexMaster"},
@@ -883,6 +884,8 @@
                     "Name": "ExecutionerBase",
                     "Assets": 
                     [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
                         {"Name": "Executioner"},
                         {"Name": "Executioner_Ability"},
                         {"Name": "Executioner_Special"}
