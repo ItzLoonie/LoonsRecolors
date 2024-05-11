@@ -1289,6 +1289,8 @@
                     [
                         {"Name": "Admirer"},
                         {"Name": "Amnesiac"},
+                        {"Name": "Banshee"},
+                        {"Name": "Banshee_Ability"},
                         {"Name": "Berserker"},
                         {"Name": "Bodyguard"},
                         {"Name": "Cleric"},
