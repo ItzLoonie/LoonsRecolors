@@ -17,6 +17,9 @@ Add it! I'm openly accepting new icons to add to the pack.
 > Pestilence and Famine have unique icons so they are not just horse icons.
 
 > [!NOTE]
+> Jackal uses an early icon and Oracle's Special Ability also uses its early icon.
+
+> [!NOTE]
 > Below are the colors for each faction:<br>
 > Town = `#06E00C`<br>
 > Coven = `#B545FF`<br>
