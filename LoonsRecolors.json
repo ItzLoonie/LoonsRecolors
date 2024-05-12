@@ -11,7 +11,8 @@
                     [
                         {"Name": "Auditor"},
                         {"Name": "Auditor_Ability"},
-                        {"Name": "Auditor_Special"}
+                        {"Name": "Auditor_Special"},
+                        {"Name": "Necromancer"}
                     ]
                 },
                 {
@@ -349,6 +350,7 @@
                     "Name": "JudgeBase",
                     "Assets": 
                     [
+                        {"Name": "CovenLeader"},
                         {"Name": "Judge"},
                         {"Name": "Judge_Ability"},
                         {"Name": "Judge_Special"}
