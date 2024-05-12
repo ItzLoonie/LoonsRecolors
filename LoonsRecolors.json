@@ -884,6 +884,7 @@
                     "Name": "DoomsayerBase",
                     "Assets": 
                     [
+                        {"Name": "Amnesiac"},
                         {"Name": "Doomsayer"},
                         {"Name": "Doomsayer_Special"}
                     ]
