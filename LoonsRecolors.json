@@ -587,10 +587,6 @@
                 },
                 {
                     "Name": "ApocalypseBase",
-                    "Assets": []
-                },
-                {
-                    "Name": "ApocalypseEasterEggs",
                     "Assets": 
                     [
                         {"Name": "Admirer"},
@@ -621,7 +617,6 @@
                         {"Name": "HexMaster"},
                         {"Name": "Illusionist"},
                         {"Name": "Investigator"},
-                        {"Name": "Jackal"},
                         {"Name": "Jailor"},
                         {"Name": "Jinx"},
                         {"Name": "Lookout"},
@@ -666,6 +661,11 @@
                         {"Name": "Wildling"},
                         {"Name": "Witch"}
                     ]
+
+                },
+                {
+                    "Name": "ApocalypseEasterEggs",
+                    "Assets": []
                 },
                 {
                     "Name": "CovenBase",
@@ -715,7 +715,6 @@
                         {"Name": "Illusionist_Ability"},
                         {"Name": "Investigator"},
                         {"Name": "Investigator_Ability"},
-                        {"Name": "Jackal"},
                         {"Name": "Jailor"},
                         {"Name": "Jinx"},
                         {"Name": "Lookout"},
