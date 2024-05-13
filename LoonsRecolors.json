@@ -980,6 +980,7 @@
                         {"Name": "CursedSoul"},
                         {"Name": "Deafened"},
                         {"Name": "DefenseBasic"},
+                        {"Name": "DefenseEthereal"},
                         {"Name": "DefenseInvincible"},
                         {"Name": "DefenseNone"},
                         {"Name": "DefensePowerful"},
