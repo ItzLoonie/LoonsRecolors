@@ -270,6 +270,7 @@
                     "Name": "InquisitorBase",
                     "Assets": 
                     [
+                        {"Name": "CursedSoul"},
                         {"Name": "Inquisitor"},
                         {"Name": "Inquisitor_Ability"},
                         {"Name": "Inquisitor_Special"}
@@ -449,6 +450,7 @@
                         {"Name": "Conjurer"},
                         {"Name": "Coroner"},
                         {"Name": "Coven"},
+                        {"Name": "CommonCoven"},
                         {"Name": "CovenDeception"},
                         {"Name": "CovenKilling"},
                         {"Name": "CovenLeader"},
@@ -888,6 +890,7 @@
                     "Assets": 
                     [
                         {"Name": "Amnesiac"},
+                        {"Name": "CursedSoul"},
                         {"Name": "Doomsayer"},
                         {"Name": "Doomsayer_Special"}
                     ]
@@ -902,6 +905,7 @@
                     [
                         {"Name": "Admirer"},
                         {"Name": "Amnesiac"},
+                        {"Name": "CursedSoul"},
                         {"Name": "Executioner"},
                         {"Name": "Executioner_Ability"},
                         {"Name": "Executioner_Special"}
@@ -916,6 +920,7 @@
                     "Name": "JesterBase",
                     "Assets": 
                     [
+                        {"Name": "CursedSoul"},
                         {"Name": "Jester"},
                         {"Name": "Jester_Ability"},
                         {"Name": "Jester_Special"}
@@ -930,6 +935,7 @@
                     "Name": "PirateBase",
                     "Assets": 
                     [
+                        {"Name": "CursedSoul"},
                         {"Name": "Pirate"},
                         {"Name": "Pirate_Special"}
                     ]
@@ -972,6 +978,7 @@
                         {"Name": "Baker_Special"},
                         {"Name": "Bread"},
                         {"Name": "Coven"},
+                        {"Name": "CommonCoven"},
                         {"Name": "CovenDeception"},
                         {"Name": "CovenKilling"},
                         {"Name": "CovenLeader"},
