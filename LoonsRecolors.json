@@ -936,9 +936,11 @@
                     "Name": "PirateBase",
                     "Assets": 
                     [
+                        {"Name": "Amnesiac"},
                         {"Name": "CursedSoul"},
                         {"Name": "Pirate"},
-                        {"Name": "Pirate_Special"}
+                        {"Name": "Pirate_Special"},
+                        {"Name": "War"}
                     ]
                 },
                 {
@@ -1351,6 +1353,7 @@
                         {"Name": "Prosecutor"},
                         {"Name": "Psychic"},
                         {"Name": "Retributionist"},
+                        {"Name": "Ritualist"},
                         {"Name": "Seer"},
                         {"Name": "Sheriff"},
                         {"Name": "Shroud"},
@@ -1359,6 +1362,7 @@
                         {"Name": "Trapper"},
                         {"Name": "Trickster"},
                         {"Name": "Vigilante"},
+                        {"Name": "VoodooMaster"},
                         {"Name": "War"},
                         {"Name": "Warlock"},
                         {"Name": "Werewolf"},
